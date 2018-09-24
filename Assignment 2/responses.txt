@@ -1,6 +1,17 @@
-Data Travels in packets. They can be put into a single packet of information or if its a large file it will be split up into smaller pieces and sent through different channels until all the files arrive at the destination so that the file can be reassembles and looked at.
-An IP Address is the address of your computer or your devise and the DNS is the server of the information you are going to. They both have addresses and exchange addresses so that you can find the website or object you are looking for faster.
-A cookie is information that is saves so that way the website can recognize who you are when you log back into it so you don't have to log onto the web sight every time you use it.
-There is the protocol identifier in the beginning of the line to identify what protocols to use. another part is the specific IP adress of the sight or computer you are trying to get to.and then there is the resource name, the name of the picture, website ect.
+1.) Data Travels in packets. They can be put into a single
+packet of information or if its a large file it will be split
+up into smaller pieces and sent through different channels until
+all the files arrive at the destination so that the file can be reassembles and looked at.
+2.) An IP Address is the address of your computer or your devise and the
+DNS is the server of the information you are going to. They both have
+ addresses and exchange addresses so that you can find the website or object
+  you are looking for faster.
+3.) A cookie is information that is saves so that way the website
+ can recognize who you are when you log back into it so you don't
+  have to log onto the web sight every time you use it.
+4.) There is the protocol identifier in the beginning of the line
+ to identify what protocols to use. another part is the specific IP address
+  of the sight or computer you are trying to get to.and then there is the resource name,
+  the name of the picture, website ect.
 
-![image of my atom editor](./images/Screenshot (2).png)
+![image of my atom editor](./images/Screenshot.png)
