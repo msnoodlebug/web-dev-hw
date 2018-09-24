@@ -1,17 +1,15 @@
-<p> 1.) Data Travels in packets. They can be put into a single
-packet of information or if its a large file it will be split
-up into smaller pieces and sent through different channels until
-all the files arrive at the destination so that the file can be reassembles and looked at.</p>
-<p> 2.) An IP Address is the address of your computer or your devise and the
-DNS is the server of the information you are going to. They both have
-addresses and exchange addresses so that you can find the website or object
-you are looking for faster.</p>
-<p> 3.) A cookie is information that is saves so that way the website
-can recognize who you are when you log back into it so you don't
-have to log onto the web sight every time you use it.</P>
-<P> 4.) There is the protocol identifier in the beginning of the line
-to identify what protocols to use. another part is the specific IP address
-of the sight or computer you are trying to get to.and then there is the resource name,
-the name of the picture, website ect. </P>
+h1 Assignment 2
 
-![image of my atom editor](TEST\images\Screenshot(2).png)
+1.) Version Control allows you to work on the same file with many people. It can also allow you
+to manage the changes to your system so you can always go back and save you progress so you have
+some backups of the files while everyone is making changes.
+
+2.) [responses](./responses.txt)
+
+3.) My work cycle for this class is trying to go in order of what to read. I normally look at everything
+and all the videos to get and understanding of what to do. Once I start the assignment I will look
+up anything that is confusing to me. I do have a lot of issues with markup language. It confusing
+to me and i cant seem to get things to look right or upload right but I keep searching for answers until
+I can find a solution that helps me in the situation
+
+![image of my atom editor](.TEST/images/Screenshot(2).png)
