@@ -10,8 +10,11 @@
 ### My Resources
 *HTML and CSS* Design and Builds Websites by
 **Jon Duckett**
-
+```
+*HTML and CSS* Design and Builds Websites by
+**Jon Duckett**
+```
 --------------------------
-[Course website] (<file://https://media-ed-online.github.io/intro-web-dev/>)
+[Course website](https://media-ed-online.github.io/intro-web-dev)
 
-<imgsrc="https://raw.githubusercontent.com/JustineEvansUM/course-design-misc/master/intro-web-dev/site-banner.jpg">
+![Course Banner](https://raw.githubusercontent.com/JustineEvansUM/course-design-misc/master/intro-web-dev/site-banner.jpg)
