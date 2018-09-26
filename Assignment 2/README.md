@@ -12,4 +12,4 @@ up anything that is confusing to me. I do have a lot of issues with markup langu
 to me and  cant seem to get things to look right or upload right but I keep searching for answers until
 I can find a solution that helps me in the situation
 
-![image of my atom editor](./images/Screenshot(2).png)
+![image of my atom editor](./Images/screenshot.png)
