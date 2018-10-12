@@ -7,4 +7,4 @@ Sematic Markup is the meaning of the information. Its used to emphasize differen
 C) This time my work flow was a lot better. I was able to understand the reading and the examples and use them to make my webpage. It didn't take me to long to figure it out since HTML is a lot easier for me to use since I've used it in high school.
 
 
-![atom workflow image](./Assignment3/screenshot.png)
+![atom workflow image](./images/screenshot.png)
