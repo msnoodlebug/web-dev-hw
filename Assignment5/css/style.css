@@ -1,0 +1,64 @@
+body {
+   background-color: #dfdfdf;
+   margin: 0px;
+}
+
+header, footer {
+   background-color: #ff8733;
+   padding: 35px;
+   font-family: Arial;
+   color: white;
+}
+
+.content {
+ /* Sets a row for inner pieces: */
+   width: 100%;
+   display: flex;
+}
+
+main {
+   background-color: #54d7d7;
+   width: 70%;
+   height: 100vh;
+   float: left;
+}
+
+aside {
+   background-color: #ffea9a;
+   width: 30%;
+   height: 100vh;
+   float: left;
+}
+/* not using anymore
+footer {
+   text-align: right;
+}
+*/
+
+.splat {
+   position: absolute;
+   bottom: 25px;
+   right: 15px;
+   z-index: 1;
+   height: 400px;
+   width: 600px;
+   background-image: url(../images/1990s-02.png);
+   opacity: 0.9;
+
+ }
+
+.splat>p {
+  position: absolute;
+  top: 120px;
+  left: 120px;
+font-family: MUNDONICK;
+font-size:45pt;
+color: white;
+}
+
+@font-face {
+font-family: 'MUNDONICK';
+src: url('../fonts/MUNDONICK.ttf') format('truetype');
+font-weight: ;
+font-style: ;
+}
