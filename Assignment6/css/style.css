@@ -1,0 +1,77 @@
+.one{
+  font-family: PetitFormalScript-Regular, sans-serif;
+  font-size: 30pt;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+}
+
+.two{
+  font-family: PetitFormalScript-Regular,sans-serif;
+  font-size: 30pt;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+
+}
+
+p {
+  text-align: justify;
+  font-family: 'serif';
+  font-size: 19pt;
+  padding-right: : 20px;
+  padding-left: 30px;
+}
+
+p::first-letter {
+  color: #51008f;
+  font-family: RougeScript,sans-serif;
+  font-size: 70pt;
+  font-weight: bold;
+}
+
+
+*{
+  padding: 20px;
+  line-height: 1.45em;
+  letter-spacing: normal;
+}
+
+body{
+  background-color: #51008f;
+}
+.story, .element-1, .one {
+ background-color: white;
+ width: 1400px;
+ margin: auto;
+ padding: 20px;
+}
+
+h3{
+  text-align: center;
+  font-family: RougeScript,sans-serif;
+  color: #51008f;
+  font-size: 30pt;
+}
+
+.element-1 {
+   font-size: 40pt;
+   font-family: RougeScript,sans-serif;
+   text-align: center;
+
+}
+
+a:link {
+   color: #ff00df;
+   text-decoration: none;
+}
+
+a:visited {
+   color: #777;
+   text-decoration: none;
+}
+
+a:hover {
+   color: #cd7300;
+   font-style: italic;
+ }
